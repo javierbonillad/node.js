@@ -5,6 +5,8 @@ travis-ci.org for continuous integration.
 
 ## Usage
 
+This is just a fork of original project.
+
 Make sure you have Leiningen installed. Then install dependencies with
 
     npm install
